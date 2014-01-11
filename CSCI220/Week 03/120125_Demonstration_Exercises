@@ -1,0 +1,40 @@
+# 120125_Demonstration_Exercises.py
+#
+# Mathmatical Operators
+#
+# <Chad Hobbs>
+
+
+def part1(): # Money calculator
+
+    quarters = eval(input("Quarters: "))
+    dimes = eval(input("Dimes: "))
+    nickels = eval(input("Nickels: "))
+    pennies = eval(input("Pennies: "))
+
+    cash = quarters * .25 + dimes * .1 + nickels * .05 + pennies * .01
+    print(cash)
+
+    return
+    
+def part2(): # 
+
+    return
+def part3(): # 
+
+    
+    return
+def part4(): # 
+
+   
+
+    return
+
+def main(): # The main program
+    part1();
+    # part2();
+    # part3();
+    # part4();
+    return
+
+main()

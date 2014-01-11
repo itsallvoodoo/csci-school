@@ -1,0 +1,5 @@
+user,password,wins,total games
+chad,hobbs,2,2
+john,smith,2,2
+adam,johnson,2,2
+betty,lou,2,2

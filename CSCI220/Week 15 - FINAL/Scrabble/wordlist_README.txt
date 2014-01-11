@@ -1,0 +1,1 @@
+The wordlist has almost 24000 common dictionary words. I scraped a scrabble dictionary website to get it. Feel free to add to or edit it. - Chad 11:34 17APR12

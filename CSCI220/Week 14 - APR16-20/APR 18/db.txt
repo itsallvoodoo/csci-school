@@ -1,0 +1,5 @@
+user,password,wins,total games
+Paul,1234,7,9
+Liz,Jones,3,9
+Andy,123,0,0
+Chad,Hobbs,0,0

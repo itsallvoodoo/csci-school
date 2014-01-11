@@ -1,0 +1,7 @@
+user,password,wins,games
+Chad,pw,43,71
+Jack,jack,10,10
+John,ps,2,3
+Roger,gone,0,0
+Roger,roger,2,3
+Piper,piper,2,5
