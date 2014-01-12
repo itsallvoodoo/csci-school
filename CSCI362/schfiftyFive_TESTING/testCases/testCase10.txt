@@ -1,0 +1,8 @@
+Id:10
+SourceFile: src.com.jpeterson.util.Unsigned
+TestDriver: testCase10.java
+Requirement: Utility for converting a number to its unsigned value.
+Component: Controller Utility
+Method: Unsigned.unsigned(byte)
+Inputs:0xff
+Outcome: "255"

@@ -1,0 +1,8 @@
+Id:25
+SourceFile: src.org.openremote.controller.statuscache.ChangedStatusRecord
+TestDriver: testCase25.java
+Requirement: Utility to record the skipped changed statuses and waited changed statuses.
+Component: Controller Utility
+Method: setDeviceID(String)
+Inputs: "TestDevice"
+Outcome: "DifferentDevice"

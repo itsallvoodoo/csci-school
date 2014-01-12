@@ -1,0 +1,8 @@
+Id:24
+SourceFile: src.org.openremote.controller.utils.Strings
+TestDriver: testCase24.java
+Requirement: Correctly converts from a signed Java byte to an unsigned hex string.
+Component: Controller Utility
+Method: byteToUnsignedHexString(byte b)
+Inputs: 64
+Outcome: 0x40

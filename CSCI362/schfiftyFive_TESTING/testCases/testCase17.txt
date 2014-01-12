@@ -1,0 +1,8 @@
+Id:17
+SourceFile: src.com.jpeterson.x10.X10Util
+TestDriver: testCase17.java
+Requirement: Utility classes to support X10 classes
+Component: Controller Utility
+Method: deviceCode2Byte
+Inputs: 7
+Outcome: "5"

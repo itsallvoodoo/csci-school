@@ -1,0 +1,8 @@
+Id:15
+SourceFile: com.jpeterson.pool.SocketObjectPool
+TestDriver: testCase15.java
+Requirement: Broken sockets are destroyed correctly.
+Component: Controller Utility
+Method: SocketObjectPool.returnBrokenObject
+Inputs: None
+Outcome: True

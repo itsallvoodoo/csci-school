@@ -1,0 +1,8 @@
+Id:22
+SourceFile: src.com.jpeterson.util.Condition
+TestDriver: testCase22.java
+Requirement: Correctly implement a serializable Condition variable.
+Component: Controller Utility
+Method: setFalse()
+Inputs: None
+Outcome: false

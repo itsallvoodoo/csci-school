@@ -1,0 +1,8 @@
+Id:8
+SourceFile: src.com.jpeterson.util.HexFormat
+TestDriver: testCase08.java
+Requirement: Utility for converting int numbers to hex numbers.
+Component: Controller Utility
+Method: HexFormat.format(int)
+Inputs:0x4321fedc
+Outcome: "4321fedc"

@@ -1,0 +1,8 @@
+Id:2
+SourceFile: src.com.jpeterson.util.BinaryFormat
+TestDriver: testCase02.java
+Requirement: Utility for converting short numbers to binary numbers works properly.
+Component: Controller Utility
+Method: BinaryFormat.format(short)
+Inputs:(short)0xa2b6
+Outcome: "1 0 1 0 0 0 1 0 1 0 1 1 0 1 1 0"

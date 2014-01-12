@@ -1,0 +1,8 @@
+Id:20
+SourceFile: src.com.jpeterson.x10.beans.HouseCodeEditor
+TestDriver: testCase20.java
+Requirement: classes to support X10 classes
+Component: Controller Utility
+Method: getValue
+Inputs:b
+Outcome:"b"

@@ -1,0 +1,8 @@
+Id:4
+SourceFile: src.com.jpeterson.util.BinaryFormat
+TestDriver: testCase04.java
+Requirement: Utility for converting int numbers to binary numbers works properly.
+Component: Controller Utility
+Method: BinaryFormat.format(int)
+Inputs:(int)0x4321fedc
+Outcome: "01000011001000011111111011011100"

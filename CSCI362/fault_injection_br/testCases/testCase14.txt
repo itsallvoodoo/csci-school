@@ -1,0 +1,8 @@
+Id:14
+SourceFile: com.jpeterson.pool.SocketObjectPool
+TestDriver: testCase14.java
+Requirement: Sockets are checked back in correctly.
+Component: Controller Utility
+Method: SocketObjectPool.returnObject
+Inputs: None
+Outcome: True

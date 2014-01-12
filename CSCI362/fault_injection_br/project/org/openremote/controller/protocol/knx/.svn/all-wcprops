@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx
+END
+ApplicationProtocolDataUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/ApplicationProtocolDataUnit.java
+END
+KNXCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/KNXCommand.java
+END
+ApplicationLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/ApplicationLayer.java
+END
+KNXConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/KNXConnection.java
+END
+GroupAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/GroupAddress.java
+END
+GroupValueWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/GroupValueWrite.java
+END
+GroupValueRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/GroupValueRead.java
+END
+KNXCommandBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/KNXCommandBuilder.java
+END
+DataLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/DataLink.java
+END
+InvalidGroupAddressException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/InvalidGroupAddressException.java
+END
+KNXConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/KNXConnectionManager.java
+END
+ConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/ConnectionException.java
+END
+IndividualAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/IndividualAddress.java
+END

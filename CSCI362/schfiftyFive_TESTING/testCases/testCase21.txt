@@ -1,0 +1,8 @@
+Id:21
+SourceFile: src.com.jpeterson.util.Condition
+TestDriver: testCase21.java
+Requirement: Correctly implement a serializable Condition variable.
+Component: Controller Utility
+Method: isTrue()
+Inputs: None
+Outcome: true

@@ -1,0 +1,8 @@
+Id:13
+SourceFile: com.jpeterson.pool.SocketObjectPool
+TestDriver: testCase13.java
+Requirement: Sockets are created and checked out correctly.
+Component: Controller Utility
+Method: SocketObjectPool.borrowObject
+Inputs: None
+Outcome: 9090 (bound port number)

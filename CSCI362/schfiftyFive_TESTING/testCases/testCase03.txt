@@ -1,0 +1,8 @@
+Id:3
+SourceFile: src.com.jpeterson.util.BinaryFormat
+TestDriver: testCase03.java
+Requirement: Utility for converting long numbers to binary numbers works properly.
+Component: Controller Utility
+Method: BinaryFormat.format(long)
+Inputs:(long)0x4321fedc4321fedcL
+Outcome: "0100001100100001111111101101110001000011001000011111111011011100"

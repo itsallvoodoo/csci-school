@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/datatype
+END
+Bool.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/datatype/Bool.java
+END
+DataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/datatype/DataType.java
+END
+Unsigned8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/datatype/Unsigned8Bit.java
+END
+DataPointType.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/datatype/DataPointType.java
+END
+Controlled3Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/CSCI3622012/!svn/ver/1133/team5/fault_injection_br/project/org/openremote/controller/protocol/knx/datatype/Controlled3Bit.java
+END

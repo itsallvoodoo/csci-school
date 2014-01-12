@@ -1,0 +1,8 @@
+Id:12
+SourceFile: org.openremote.controller.utils.PathUtil
+TestDriver: testCase12.java
+Requirement: Small utility for path manipulations
+Component: Controller Utility
+Method: PathUtils.removeSlashSuffix
+Inputs: None
+Outcome: "testing/subdir/subdir2"

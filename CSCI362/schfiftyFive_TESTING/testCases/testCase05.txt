@@ -1,0 +1,8 @@
+Id:5
+SourceFile: src.com.jpeterson.util.BinaryFormat
+TestDriver: testCase05.java
+Requirement: Utility for converting hex numbers to binary numbers works properly.
+Component: Controller Utility
+Method: BinaryFormat.format(hex)
+Inputs:0xFF
+Outcome: "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1"
